@@ -1,8 +1,8 @@
 
 
-# File systems Project for CMPSC 311
+# Class: CMPSC 311
 
-Introduction to C and Systems Programming with Memory allocation and Network Programming.
+**What the project mainly consists of**: Introduction to C and Systems Programming with Memory allocation and Network Programming.
 
 ## Background
 
