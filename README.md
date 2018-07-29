@@ -17,10 +17,6 @@ Due to academic Policy, I am not allowed to share the code online and will have 
 
 VM-ware: Linux
 
-## Running the tests
-
-Explain how to run the automated tests for this system 
-
 ## Authors
 
 Me: Danny Zhu
