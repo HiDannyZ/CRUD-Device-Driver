@@ -2,7 +2,7 @@
 
 # Class: CMPSC 311
 
-**What the project mainly consists of**: Introduction to C and Systems Programming with Memory allocation and Network Programming.
+**What the project mainly consists of**: Introduction to C and Linux with Memory allocation and Network Programming.
 
 ## Background
 
@@ -13,7 +13,6 @@ Sophomore Year: I utilized C programming within a virtual machine UNIX enviromen
 Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.
 
 ### Software used
-
 
 VM-ware: Linux
 
