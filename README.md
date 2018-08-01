@@ -26,3 +26,6 @@ Me: Danny Zhu
 
 
 File Handling
+providing an easily used set of functions
+so that an application that uses your code can easily talk to an external block storage device like a hard drive
+(HDD). T
