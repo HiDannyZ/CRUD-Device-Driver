@@ -2,11 +2,11 @@
 
 # Class: CMPSC 311
 
-**What the project mainly consists of**: Introduction to C and Linux with Memory allocation and Network Programming.
+**Course Description**: Introduction to Systems Programming using C and Linux with Memory allocation and Network Programming.
 
 ## Purpose:
 
-To create a block storage device that can also communicate information between a client and server. I basically coded a program that can create files, remove files, update file contents, and delete files. To do this, I  
+To create a block storage device that can also communicate information between a client and server. I basically coded a program that can create files, remove files, update file contents, and delete files.
 
 ## Background
 
