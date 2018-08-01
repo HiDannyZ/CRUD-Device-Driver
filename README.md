@@ -1,14 +1,14 @@
 
 
-# Class: CMPSC 311
+## Class: CMPSC 311
 
 **Course Description**: Introduction to Systems Programming using C and Linux with Memory allocation and Network Programming.
 
-## Purpose:
+## Project Information:
 
 To create a block storage device that can also communicate information between a client and server. I basically coded a program that can create files, remove files, update file contents, and delete files.
 
-## Background
+## Project Background
 
 ** **CRUD stands for Create, Remove, Update, and Delete.**
 
