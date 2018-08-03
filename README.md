@@ -6,8 +6,6 @@ This project was done under CMPSC 311 at Penn State Main Campus.
 
 **CMPSC 311 Course Description**: Introduction to Systems Programming.
 
-<img src="https://puu.sh/B86pz/faecffeeb5.png" alt="alt text" width="100">
-
 # What is CRUD/HDD?
 
 CRUD is an acroynm for "Create, Remove, Update, and Delete".
@@ -21,7 +19,7 @@ The project uses the model/idea of a block storage device and asks for implement
 
 **For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs**
 
-❮img src="Images/Image1.png" ❯
+<img src="Images/Image1.png" width="500">
 
 ll remaining assignments for this class are based upon you providing an easily used set of functions
 so that an application that uses your code can easily talk to an external block storage device like a hard drive
