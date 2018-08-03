@@ -1,4 +1,4 @@
-## Disclaimer!!
+## Disclaimer!
 
 **Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.**
 
