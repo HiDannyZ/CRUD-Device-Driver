@@ -54,5 +54,7 @@ VM-ware: Linux 64 bit
 
 Me: Danny Zhu
 
+Stressed properly memory management and 
+
 
 using C and Linux with Memory allocation and Network Programming
