@@ -12,7 +12,7 @@ CRUD is an acroynm for "Create, Remove, Update, and Delete".
 
 HDD is an acroynm for "Hard disk drive"
 
-The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). To summarize, My application will act like a driver for the HDD device.
+The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was expanded to support creating, loading, and deleting states of To summarize, My application will act like a driver for the HDD device.
 
 
 - Memory management
@@ -24,6 +24,7 @@ The project uses the model/idea of a block storage device and asks for implement
 **_For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs_**
 
 <img src="Images/Image1.png" width="500">
+
 
 
 
