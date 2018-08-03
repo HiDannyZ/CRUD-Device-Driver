@@ -1,17 +1,32 @@
-## Disclaimer
+## Disclaimer!!
 
 Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.
 
 This project was done under CMPSC 311 at Penn State Main Campus.
 
-**Course Description**: Introduction to Systems Programming using C and Linux with Memory allocation and Network Programming.
+**CMPSC 311 Course Description**: Introduction to Systems Programming .
 
 
-# What is CRUD?
+
+# What is CRUD/HDD?
 
 CRUD is an acroynm for "Create, Remove, Update, and Delete".
 
-The project uses
+HDD is an acroynm for "Hard disk drive"
+
+The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). To summarize, My application will act like a driver for the HDD device.
+
+
+# Project Information
+
+** For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs **
+ll remaining assignments for this class are based upon you providing an easily used set of functions
+so that an application that uses your code can easily talk to an external block storage device like a hard drive
+(HDD).
+
+This device already has its own pre-defined set of functions that allows communication with it.
+
+W
 
 ## How does this work?
 
@@ -39,7 +54,4 @@ VM-ware: Linux
 Me: Danny Zhu
 
 
-File Handling
-providing an easily used set of functions
-so that an application that uses your code can easily talk to an external block storage device like a hard drive
-(HDD). T
+using C and Linux with Memory allocation and Network Programming
