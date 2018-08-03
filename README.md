@@ -21,7 +21,7 @@ The project uses the model/idea of a block storage device and asks for implement
 
 **For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs**
 
-❮img src="CRUD-Device-Driver/Image1.png" width="10" ❯
+❮img src="CRUD-Device-Driver/Image1.png"❯
 
 ll remaining assignments for this class are based upon you providing an easily used set of functions
 so that an application that uses your code can easily talk to an external block storage device like a hard drive
