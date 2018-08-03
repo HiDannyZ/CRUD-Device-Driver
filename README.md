@@ -15,11 +15,17 @@ HDD is an acroynm for "Hard disk drive"
 The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). To summarize, My application will act like a driver for the HDD device.
 
 
+- Memory management
+- 
+
+
 ## How does this work?
 
 **_For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs_**
 
 <img src="Images/Image1.png" width="500">
+
+
 
 ll remaining assignments for this class are based upon you providing an easily used set of functions
 so that an application that uses your code can easily talk to an external block storage device like a hard drive
