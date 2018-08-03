@@ -17,7 +17,7 @@ The project uses the model/idea of a block storage device and asks for implement
 
 ## How does this work?
 
-**For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs**
+**_For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs_**
 
 <img src="Images/Image1.png" width="500">
 
