@@ -6,7 +6,7 @@ This project was done under CMPSC 311 at Penn State Main Campus.
 
 **CMPSC 311 Course Description**: Introduction to Systems Programming.
 
-
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 # What is CRUD/HDD?
 
