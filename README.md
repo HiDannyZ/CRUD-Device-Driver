@@ -1,6 +1,6 @@
 
 
-## Class: CMPSC 311
+# Class: CMPSC 311
 
 **Course Description**: Introduction to Systems Programming using C and Linux with Memory allocation and Network Programming.
 
