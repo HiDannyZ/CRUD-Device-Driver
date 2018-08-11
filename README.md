@@ -48,22 +48,15 @@ Sophomore Year: I utilized C programming within a virtual machine UNIX enviromen
 ## Documentation 
 
 This was the the style of documentation utilized in this project.
-
->////////////////////////////////////////////////////////////////////////////////
-
->//
->// Function     : ????
-
->// Description  : ????
-
->//
-
->// Inputs       : ????
-
->// Outputs      : ????
-
->//
-
+```
+////////////////////////////////////////////////////////////////////////////////
+//// Function     : ????
+// Description  : ????
+//
+// Inputs       : ????
+// Outputs      : ????
+//
+```
 ### Software used
 
 VM-ware: Linux 64 bit
