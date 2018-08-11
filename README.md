@@ -45,7 +45,24 @@ This device already has its own pre-defined set of functions that allows communi
 
 Sophomore Year: I utilized C programming within a virtual machine UNIX enviroment and implemented a CRUD device using Linux tools and C code. The CRUD device stressed proper memory allocation for each byte of information and utilized Network programming to communicate information between a client and server. 
 
+## Documentation 
 
+This was the the style of documentation utilized in this project.
+
+>////////////////////////////////////////////////////////////////////////////////
+
+>//
+>// Function     : ????
+
+>// Description  : ????
+
+>//
+
+>// Inputs       : ????
+
+>// Outputs      : ????
+
+>//
 
 ### Software used
 
