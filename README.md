@@ -16,7 +16,7 @@ The project uses the model/idea of a block storage device and asks for implement
 
 ## What was in the block of data?
 
-<img src="Images/Image2.png" width="500">
+<img src="Images/Image2.png" width="700">
 
 The 64-bit block stressed proper allocation of bytes location 
 
