@@ -12,7 +12,10 @@ CRUD is an acroynm for "Create, Remove, Update, and Delete".
 
 HDD is an acroynm for "Hard disk drive"
 
-The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. To summarize, My application will act like a driver for the HDD device.
+The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. 
+
+
+To summarize, My application will act like a driver for the HDD device.
 
 ## What was in the block of data?
 
@@ -30,13 +33,10 @@ The 64-bit block stressed proper allocation of bytes location
 
 <img src="Images/Image1.png" width="500">
 
+The device already had its own pre-defined set of functions that allowed communication with the HDD-device. My code implelmented the communication of information to the external block storage device like a hard driver (HDD)
 
 
-ll remaining assignments for this class are based upon you providing an easily used set of functions
-so that an application that uses your code can easily talk to an external block storage device like a hard drive
-(HDD).
 
-This device already has its own pre-defined set of functions that allows communication with it.
 
 
 
