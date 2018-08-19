@@ -15,8 +15,8 @@ HDD is an acroynm for "Hard disk drive"
 The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I
 
 What was impressively stressed in this project: 
- -> Memory allocation
-  > Documentation
+ - Memory allocation
+ - Documentation
 
 
 ## What was in the block of data?
@@ -25,8 +25,6 @@ What was impressively stressed in this project:
 
 The 64-bit block stressed proper allocation of bytes location 
 
-- Memory management
-- 
 
 
 ## How does this work?
