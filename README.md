@@ -12,7 +12,7 @@ CRUD is an acroynm for "Create, Remove, Update, and Delete".
 
 HDD is an acroynm for "Hard disk drive"
 
-The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I
+The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I implemented network code that allowed communication between a client and server.
 
 What was impressively stressed in this project: 
  - Memory allocation
@@ -22,6 +22,8 @@ What was impressively stressed in this project:
 ## What was in the block of data?
 
 <img src="Images/Image2.png" width="700">
+
+The ordering convention of memory used in the block of data was Big Endian.
 
 The 64-bit block stressed proper allocation of bytes location 
 
