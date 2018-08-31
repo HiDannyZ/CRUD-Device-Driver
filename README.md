@@ -29,6 +29,10 @@ The 64-bit block stressed proper allocation of bytes location.
 
 The information was seperated into by 5 catagories.
 
+OP stands for operation and the information stored here detailed what the program would do to the data when obtained. For example, Saving, writing, reading.
+
+
+
 
 
 ## How does this work?
