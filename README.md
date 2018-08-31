@@ -25,7 +25,9 @@ What was impressively stressed in this project:
 
 The ordering convention of memory used in the block of data was Big Endian.
 
-The 64-bit block stressed proper allocation of bytes location 
+The 64-bit block stressed proper allocation of bytes location. 
+
+The information was seperated into by 5 catagories.
 
 
 
@@ -35,12 +37,7 @@ The 64-bit block stressed proper allocation of bytes location
 
 <img src="Images/Image1.png" width="500">
 
-The device already had its own pre-defined set of functions that allowed communication with the HDD-device. My code implelmented the communication of information to the external block storage device like a hard driver (HDD)
-
-
-
-
-
+The device already had its own pre-defined set of functions that allowed communication with the HDD-device. My code implelmented the communication of information to the external block storage device like a hard driver (HDD).
 
 ## Documentation 
 
@@ -61,13 +58,9 @@ VM-ware: Linux 64 bit
 
 ## Authors
 
-Me: Danny Zhu
-
-Stressed properly memory management and 
+Me: Danny Zhu (Sophmore Year)
 
 
-using C and Linux with Memory allocation and Network Programming
-Demonstrate
 
 ## Important Concepts from Class utilized in this Project.
 
