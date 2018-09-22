@@ -2,7 +2,7 @@
 
 **Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.**
 
-This project was done under the course CMPSC 311 at Penn State Main Campus.
+This project was done under the course CMPSC 311 at Penn State Main Campus. The Language used was C.
 
 **CMPSC 311 Course Description**: Introduction to Systems Programming.
 
@@ -12,12 +12,13 @@ CRUD is an acroynm for "Create, Remove, Update, and Delete".
 
 HDD is an acroynm for "Hard disk drive"
 
-The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I implemented network code that allowed communication between a client and server.
+The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I implemented network code that allowed local communication between a client and server (My computer was both the client and server. However, it would be possible to communicate over the internet between different computers with minor tweaks to the project).
 
 What was impressively stressed in this project: 
  - Memory allocation
  - Documentation
-
+ - Network Byte Order
+ - Host Byte Order
 
 ## What was in the block of data?
 
