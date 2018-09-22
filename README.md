@@ -2,7 +2,9 @@
 
 **Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.**
 
-This project was done under the course CMPSC 311 at Penn State Main Campus. The Language used was C.
+This project was done under the course CMPSC 311 at Penn State Main Campus.
+
+The Language used was C.
 
 **CMPSC 311 Course Description**: Introduction to Systems Programming.
 
@@ -14,7 +16,7 @@ HDD is an acroynm for "Hard disk drive"
 
 The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I implemented network code that allowed local communication between a client and server (My computer was both the client and server. However, it would be possible to communicate over the internet between different computers with minor tweaks to the project).
 
-What was impressively stressed in this project: 
+What was stressed in this project: 
  - Memory allocation
  - Documentation
  - Network Byte Order
@@ -24,9 +26,10 @@ What was impressively stressed in this project:
 
 <img src="Images/Image2.png" width="700">
 
-The ordering convention of memory used in the block of data was Big Endian.
+The ordering convention of memory used in the block of data was Big Endian where the most significant bit is at the beginning of the byte.
 
 The 64-bit block stressed proper allocation of bytes location. 
+
 
 The information was seperated into by 5 catagories.
 
@@ -42,7 +45,7 @@ OP stands for operation and the information stored here detailed what the progra
 
 <img src="Images/Image1.png" width="500">
 
-The device already had its own pre-defined set of functions that allowed communication with the HDD-device. My code implelmented the communication of information to the external block storage device like a hard driver (HDD).
+The device already had its own pre-defined set of functions that allowed communication with the HDD-device. My code implelmented the communication of information to the external block storage device like a hard driver (HDD). There were over 1,000 test cases to ensure the quality of my code and to ensure memory allocation was done properly.
 
 ## Documentation 
 
