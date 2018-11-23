@@ -63,21 +63,11 @@ Each function is documented in this style and contained concise, but clear detai
 // Outputs      : ????
 //
 ```
-### Software used
+### Software/Coding Practices used
 
 VM-ware: Linux 64 bit
-
+Bash: Utilized to automate running the application
 
 ## Authors
 
 Me: Danny Zhu (Sophmore Year)
-
-
-
-## Important Concepts from Class utilized in this Project.
-
-## Project Background
-
-** **CRUD stands for Create, Remove, Update, and Delete.**
-
-Sophomore Year: I utilized C programming within a virtual machine UNIX enviroment and implemented a CRUD device using Linux tools and C code. The CRUD device stressed proper memory allocation for each byte of information and utilized Network programming to communicate information between a client and server. 
