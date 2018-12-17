@@ -2,6 +2,11 @@
 
 **Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.**
 
+The application was written in C utilizing:
+
+OpenGL
+Microsoft Visual Studios C++.
+
 [![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
 ## Contact for any Questions
