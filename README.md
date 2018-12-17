@@ -6,6 +6,14 @@ This project was done under the course CMPSC 311 at Penn State Main Campus. The 
 
 **CMPSC 311 Course Description**: Introduction to Systems Programming.
 
+### Youtube Video
+[![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
+
+## Contact for any Questions
+- Danny Zhu
+  - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
+  - chdannyzhu@yahoo.com
+
 # What is CRUD/HDD?
 
 CRUD is an acroynm for "Create, Remove, Update, and Delete".
@@ -15,18 +23,7 @@ HDD is an acroynm for "Hard disk drive"
 The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I implemented network code that allowed local communication between a client and server (My computer was both the client and server. However, it would be possible to communicate over the internet between different computers with minor tweaks to the project).
 
 As an example of one of the application's function: The program was capable of reading various text files into the program’s allocated block memory and writing it to a separate text file. It would also be capable to compare and contrast 2 text files to see if they contained the same exact text data. 
-
-
-What was extremely stressed in this project: 
- - Memory allocation
- - Documentation
- - Network Byte Order
- - Host Byte Order
- - Clean Code
- - Usage of Helper functions
  
- 
-
 ## What was in the block of data?
 
 <img src="Images/Image2.png" width="700">
@@ -38,10 +35,6 @@ The 64-bit block stressed proper allocation of bytes location as listed in the p
 The information was seperated into by 5 catagories.
 
 OP stands for operation and the information stored here detailed what the program would do to the data when obtained. For example, Saving, writing, reading.
-
-
-
-
 
 ## How does this work?
 
@@ -63,11 +56,9 @@ Each function is documented in this style and contained concise, but clear detai
 // Outputs      : ????
 //
 ```
-### Software/Coding Practices used
+### Software
 
-VM-ware: Linux 64 bit
-Bash: Utilized to automate running the application
+- C
+- VM-ware: Linux 64 bit
+- Bash: Utilized to automate running the application
 
-## Authors
-
-Me: Danny Zhu (Sophmore Year)
