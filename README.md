@@ -6,7 +6,6 @@ This project was done under the course CMPSC 311 at Penn State Main Campus. The 
 
 **CMPSC 311 Course Description**: Introduction to Systems Programming.
 
-### Youtube Video
 [![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
 ## Contact for any Questions
