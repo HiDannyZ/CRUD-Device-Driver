@@ -4,8 +4,8 @@
 
 The application was written in C utilizing:
 
-OpenGL
-Microsoft Visual Studios C++.
+- VM-ware: Linux 64 bit
+- Bash: Utilized to automate running the application
 
 [![YoutubeImage](https://github.com/HiDannyZhu/Transformations-and-Heightmaps-in-3D/blob/master/YoutubeImage.png)](https://www.youtube.com/watch?v=Z9tJMM_5zTE "Everything Is AWESOME")
 
