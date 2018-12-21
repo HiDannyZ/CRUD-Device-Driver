@@ -37,8 +37,15 @@ The 64-bit block stressed proper allocation of bytes location as listed in the p
 
 The information was seperated into by 5 catagories.
 
-OP stands for operation and the information stored here detailed what the program would do to the data when obtained. For example, Saving, writing, reading.
+**OP** stands for operation and the information stored here detailed what the server should do with the information obtained. For example, Saving, writing, reading.
 
+**Block ID** is the block identifier of the block you are executing a command on. This is because there are several different files that each needed their own identifier.
+
+**Block Size** is the length of the block you request to read from, overwrite, or create.
+
+**Flags** are used to identify whether we are using OP functions on a singluar block or the metablock, which holds the metadata of all my files.  
+
+**Result** is the success status of the command execution, where 0 (zero) signifies success, and 1 signifies failure.
 
 
 ## How does this work?
@@ -51,16 +58,21 @@ The device already had its own pre-defined set of functions that allowed communi
 
 ## Features
 
-### Checking HDD File Functions: Open, Read, Write, Close, and Delete
-HDD unit tests                  
-:-------------------------:
-![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleTriangleNoLight.png) 
-
 ### Server & Client
 HDDServer           |  HDD Client                    
 :-------------------------:|:-------------------------:|
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleTriangleNoLight.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleSphereLighted.png)|
 
+### Checking HDD File Functions: Open, Read, Write, Close, and Delete
+HDD unit tests                  
+:-------------------------:
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleTriangleNoLight.png) 
+
+### Loads several states of blocks into the HDD Device
+
+### Extract the information out of the HDD Device
+
+### Diff command to compare the contents of the file with the original version given for testing.
 
 ## Documentation 
 
