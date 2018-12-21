@@ -1,3 +1,6 @@
+[![Maintenance](https://img.shields.io/badge/Developer-Danny_Zhu-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Maintenance](https://img.shields.io/badge/VM-Ware-Linux-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)[![Maintenance](https://img.shields.io/badge/Language-C-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+
 ## Disclaimer!
 
 **Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.**
