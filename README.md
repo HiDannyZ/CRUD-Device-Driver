@@ -20,7 +20,7 @@ CRUD is an acroynm for "Create, Remove, Update, and Delete".
 
 HDD is an acroynm for "Hard disk drive"
 
-The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I implemented network code that allowed local communication between a client and server (My computer was both the client and server. However, it would be possible to communicate over the internet between different computers with minor tweaks to the project).
+The project uses the model/idea of a block storage device and asks for implementation of coded functions that mimics standard C file commands (open, close, read, write, and seek). In addition to these functions, the application was later expanded to support saving, loading, and deleting states of the HDD device: to be more precise, I created a hdd_content.svd, which will held all the device’s blocks of information. As an example, the program would be able to load in blocks of data from a previous saved state. As a final improvement to the project, I implemented network code that allowed local communication between a client and server (My computer was both the client and server. However, it would be possible to communicate over the internet between different computers with minor tweaks to the project).
 
 As an example of one of the application's function: The program was capable of reading various text files into the program’s allocated block memory and writing it to a separate text file. It would also be capable to compare and contrast 2 text files to see if they contained the same exact text data. 
  
@@ -48,10 +48,17 @@ The device already had its own pre-defined set of functions that allowed communi
 
 ## Features
 
-### 
-No Lights            |  Lighted Sphere                       
+### Checking HDD File Functions: Open, Read, Write, Close, and Delete
+HDD unit tests                  
+:-------------------------:
+![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleTriangleNoLight.png) 
+
+### Server & Client
+HDDServer           |  HDD Client                    
 :-------------------------:|:-------------------------:|
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleTriangleNoLight.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleSphereLighted.png)|
+
+
 ### Documentation 
 
 Each function is documented in this style and contained concise, but clear details pertaining about the function's purpose and what it did.
