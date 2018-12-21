@@ -14,7 +14,7 @@ The application was written in C utilizing:
   - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
   - chdannyzhu@yahoo.com
 
-### What is CRUD/HDD?
+## What is CRUD/HDD?
 
 CRUD is an acroynm for "Create, Remove, Update, and Delete".
 
@@ -24,7 +24,7 @@ The project uses the model/idea of a block storage device and asks for implement
 
 As an example of one of the application's function: The program was capable of reading various text files into the program’s allocated block memory and writing it to a separate text file. It would also be capable to compare and contrast 2 text files to see if they contained the same exact text data. 
  
-### What was in the block of data?
+## What was in the block of data?
 
 <img src="Images/Image2.png" width="700">
 
@@ -38,7 +38,7 @@ OP stands for operation and the information stored here detailed what the progra
 
 
 
-### How does this work?
+## How does this work?
 
 **_For a more in-depth description of the application and what I needed to do, please look at the assignment PDFs_**
 
@@ -59,7 +59,7 @@ HDDServer           |  HDD Client
 ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleTriangleNoLight.png)  |  ![](https://github.com/HiDannyZhu/RayTracer/blob/master/Images/MySingleSphereLighted.png)|
 
 
-### Documentation 
+## Documentation 
 
 Each function is documented in this style and contained concise, but clear details pertaining about the function's purpose and what it did.
 ```
