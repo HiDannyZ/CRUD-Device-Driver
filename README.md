@@ -11,7 +11,8 @@ The application was written in C utilizing:
 
 ## Contact for any Questions
 - Danny Zhu
-  - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/),
+  - [Linkedin](https://www.linkedin.com/in/danny-zhu-8b6556119/)
+  - [Personal Website](https://hidannyzhu.github.io/)
   - chdannyzhu@yahoo.com
 
 ### What is CRUD/HDD?
