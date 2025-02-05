@@ -1,7 +1,5 @@
 ## Disclaimer!
 
-**Due to academic Policy, I am not allowed to share the code online and will have to share code through email or other methods.**
-
 The application was written in C utilizing:
 
 - VM-ware: Linux 64 bit
